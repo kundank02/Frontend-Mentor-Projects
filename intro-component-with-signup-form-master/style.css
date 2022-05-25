@@ -27,26 +27,6 @@ body{
     gap: 3em;
 }
 
-/* .box1{
-    display: inline-block;
-    margin-top: 40vh;
-    margin-left: 15%;
-}
-
-.box1 h1{
-    color: aliceblue;
-    font-size: 50px;
-    font-weight: 700;
-    line-height: 60px;
-}
-
-.box1 p{
-    margin-top: 30px;
-    color: aliceblue;
-    font-weight: 400;
-    font-size: 16px;
-} */
-
 .box1{
     color: white;
     align-self: center;
@@ -59,104 +39,6 @@ body{
 .box1 p{
     margin-top: 20px;
 }
-
-/* 
-.box2{
-    display: inline-block;
-    margin-top: 20vh;
-    margin-right: 10%;
-    width:1200px;
-    margin-left: 100px;
-}
-
-#intro{
-    color: aliceblue;
-    font-size: medium;
-    background-color: rgb(99, 87, 168);
-    border-radius: 8px;
-    margin-bottom: 20px;
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0px 8px rgba(0, 0, 0, 0.164);
-    width: 100%;
-}
-
-#intro span{
-    font-weight: bold;
-}
-
-#intro:hover{
-    background-color: rgba(32, 18, 112, 0.747);
-    cursor: pointer;
-}
-
-.box2 .form{
-    background-color: white;
-    box-sizing: border-box;
-    border: none;
-    border-radius: 8px;
-}
-
-.box2 form{
-    display: flex;
-    flex-direction: column;
-    padding: 30px 60px 50px;
-    justify-content: center;
-    align-items: center;
-    height: 450px;
-    margin-bottom: 0;
-}
-
-.box2 .myinput{
-    margin: 10px;
-    width: 30%;
-    padding: 20px;
-    border-radius: 6px;
-    width: 100%;
-    border: solid 1px #e2e0ec;
-}
-
-#submit{
-    background-color: rgb(73, 196, 143);
-    margin: 20px;
-    width: 107%;
-    padding: 20px;
-    border: none;
-    border-radius: 8px;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 20px;
-    color: aliceblue;
-    font-weight: 500;
-    margin-bottom: 0;
-    box-shadow: 0.1px 4px rgba(36, 100, 72, 0.795);
-}
-
-#submit:hover{
-    background-color: #059154;
-    cursor: pointer;
-}
-
-.btn:active {
-    transform: translateY(4px);
-    box-shadow: 0px 5px rgb(102, 102, 102);
-} 
-
-#bottom{
-    margin-top: -50px;
-    text-align: center;
-    color: #bebbca;
-    font-size: small;
-}
-
-#bottom span{
-    color: rgba(255, 0, 0, 0.534);
-}
-
-#bottom span:hover{
-    color: red;
-    cursor: pointer;
-} */
 
 .box2{
     display: flex;
