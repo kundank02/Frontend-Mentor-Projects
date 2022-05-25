@@ -23,7 +23,7 @@ Screenshot: [Screenshot](./Screenshot.png)
 ### Links
 
 - Solution URL: [index.html](./index.html)
-- Live Site URL: [Live Site](http://127.0.0.1:5500/index.html)
+- Live Site URL: [Live Site](https://kundank02.github.io/Frontend-Mentor-Projects/)
 
 ### Built with
 
